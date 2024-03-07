@@ -27,4 +27,14 @@
       "favicon": "./assets/favicon.png"
     }
   }
+  // asking for user permission to use location
+//   "plugins": [
+//     [
+//       "expo-location",
+//       {
+//         "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+//       }
+//     ]
+//   ]
+// }
 }
